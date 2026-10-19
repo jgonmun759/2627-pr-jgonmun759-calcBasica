@@ -12,20 +12,20 @@ dividir(numero1, numero2): devuelve el cociente de ambos números.
 Antes de realizar la división, comprueba que el divisor sea distinto de cero. Si es cero, muestra un mensaje indicando que no se puede realizar la operación.
 
 # Ejemplo de ejecución
-10
-4
-Suma: 14.0
-Resta: 6.0
-Multiplicación: 40.0
-División: 2.5
+10  
+4  
+Suma: 14.0  
+Resta: 6.0  
+Multiplicación: 40.0  
+División: 2.5  
 
 # Requisitos de desarrollo
-Crea un repositorio público de GitHub con el nombre indicado, sustituyendo usuarioPasen por tu usuario.
-Utiliza la estructura básica de un proyecto Python: src/main.py, README.md y .gitignore.
-Copia este enunciado en el archivo README.md.
-Implementa una función main() que gestione la entrada y salida de datos.
-Utiliza funciones independientes para realizar los cálculos, con parámetros y valores de retorno.
-Incluye anotaciones de tipo en variables, parámetros y retornos de las funciones.
-Documenta cada función de procesamiento mediante una docstring que incluya descripción, parámetros (:param:) y valor de retorno (:return:).
-Comprueba el funcionamiento del programa con diferentes datos.
-Registra los cambios con Git y publica el repositorio en GitHub.
+- Crea un repositorio público de GitHub con el nombre indicado, sustituyendo usuarioPasen por tu usuario.  
+- Utiliza la estructura básica de un proyecto Python: src/main.py, README.md y .gitignore.  
+- Copia este enunciado en el archivo README.md.  
+- Implementa una función main() que gestione la entrada y salida de datos.  
+- Utiliza funciones independientes para realizar los cálculos, con parámetros y valores de retorno.  
+- Incluye anotaciones de tipo en variables, parámetros y retornos de las funciones.  
+- Documenta cada función de procesamiento mediante una docstring que incluya descripción, parámetros (:param:) y valor de retorno (:return:).  
+- Comprueba el funcionamiento del programa con diferentes datos.  
+- Registra los cambios con Git y publica el repositorio en GitHub.  
