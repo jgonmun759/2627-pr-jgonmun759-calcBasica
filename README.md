@@ -1,9 +1,9 @@
-## Práctica Python - Calculadora básica
+# Práctica Python - Calculadora básica
 
-# Enunciado
+## Enunciado
 Desarrolla un programa en Python que solicite dos números decimales y muestre el resultado de las cuatro operaciones aritméticas básicas: suma, resta, multiplicación y división.
 
-# Implementa las siguientes funciones:
+## Implementa las siguientes funciones:
 
 - `sumar(numero1, numero2)`: devuelve la suma de los dos números.
 - `restar(numero1, numero2)`: devuelve la diferencia entre ambos números.
@@ -11,7 +11,7 @@ Desarrolla un programa en Python que solicite dos números decimales y muestre e
 - `dividir(numero1, numero2)`: devuelve el cociente de ambos números.  
 Antes de realizar la división, comprueba que el divisor sea distinto de cero. Si es cero, muestra un mensaje indicando que no se puede realizar la operación.
 
-# Ejemplo de ejecución
+## Ejemplo de ejecución
 ```text
 10  
 4  
@@ -22,7 +22,7 @@ Multiplicación: 40.0
 División: 2.5
 ```
 
-# Requisitos de desarrollo
+## Requisitos de desarrollo
 - Crea un repositorio público de GitHub con el nombre indicado, sustituyendo usuarioPasen por tu usuario.  
 - Utiliza la estructura básica de un proyecto Python: src/main.py, README.md y .gitignore.  
 - Copia este enunciado en el archivo README.md.  
