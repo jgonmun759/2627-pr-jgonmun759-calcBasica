@@ -8,16 +8,19 @@ Desarrolla un programa en Python que solicite dos números decimales y muestre e
 - `sumar(numero1, numero2)`: devuelve la suma de los dos números.
 - `restar(numero1, numero2)`: devuelve la diferencia entre ambos números.
 - `multiplicar(numero1, numero2)`: devuelve el producto de ambos números.
-- `dividir(numero1, numero2)`: devuelve el cociente de ambos números. 
+- `dividir(numero1, numero2)`: devuelve el cociente de ambos números.  
 Antes de realizar la división, comprueba que el divisor sea distinto de cero. Si es cero, muestra un mensaje indicando que no se puede realizar la operación.
 
 # Ejemplo de ejecución
+```text
 10  
 4  
+  
 Suma: 14.0  
 Resta: 6.0  
 Multiplicación: 40.0  
-División: 2.5  
+División: 2.5
+```
 
 # Requisitos de desarrollo
 - Crea un repositorio público de GitHub con el nombre indicado, sustituyendo usuarioPasen por tu usuario.  
